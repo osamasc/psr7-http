@@ -1,0 +1,10 @@
+{
+    "require": {
+        "psr/http-message": "^1.0"
+    },
+    "autoload": {
+        "psr-7": {
+            "Usa\\Http": "src/"
+        }
+    }
+}
